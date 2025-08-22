@@ -6,6 +6,8 @@ G. Ichimasa, H. Okajima, K. Okumura and N. Matsunaga：Model Error Compensator w
 
 岡島寛，一政豪，松永信智：非最小位相系に対するモデル誤差抑制補償器の設計，計測自動制御学会論文集，Vol.51, No.11, pp.794-801 (2015) [LINK](https://www.jstage.jst.go.jp/article/sicetr/51/11/51_794/_pdf/-char/ja)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_MEC03_withPFC)
+
 About files:
 
 hisaisyoukahou.m
